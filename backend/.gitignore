@@ -1,0 +1,21 @@
+# dependencies
+node_modules/
+
+# env
+.env
+
+# SSL certificados
+ssl/
+*.pem
+*.key
+
+# logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# editor
+.vscode/
+.idea/
